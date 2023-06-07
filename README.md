@@ -47,8 +47,16 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![241152358-6f345e0a-64fe-49a1-9c5e-de21413bfca3](https://github.com/vinodkumar-s/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497226/c65ebb73-9bb5-4a66-a9a7-94049ff502c7)
+
+
+![241152373-fe588e75-821f-4ca1-b01d-77f97f6c5ede](https://github.com/vinodkumar-s/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497226/151536e3-c465-4035-8b9b-d5204c576b4c)
+
+
+![241152384-ee8511ec-3d61-42b6-b814-f2552a9c15d0](https://github.com/vinodkumar-s/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497226/8b2a0daa-cf5c-459f-946b-4a652f40dee4)
+
+### Name: VINOD KUMAR S
+### Register Number: 212222240116
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
